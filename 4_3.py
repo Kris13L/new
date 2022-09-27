@@ -1,4 +1,4 @@
-n = int(input('n'))
+n = int(input('n: '))
 
 users = {
     i: {
